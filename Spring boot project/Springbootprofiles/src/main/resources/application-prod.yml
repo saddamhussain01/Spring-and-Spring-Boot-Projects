@@ -1,0 +1,6 @@
+spring:
+  message: Hello world from production environment
+  
+## profile specific port.
+server:
+  port: 8083
